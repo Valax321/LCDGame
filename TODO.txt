@@ -1,0 +1,3 @@
+- Use a precalculated ramp that can be manually tweaked instead of programmatic lerping between lo and high colors
+- Precalculated contrast adjustment ramp
+- Use 2d lookup table
